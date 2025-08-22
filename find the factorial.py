@@ -4,6 +4,7 @@ fact=1
 print("the factorial of", n ," is ")
 
 for i in range (1, n+1):
-    fact = fact * i
+    fact = fact * 1
   
+
 print(fact)    
